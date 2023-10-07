@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\bin\Debug\net5.0\BaiTap1.exe
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\bin\Debug\net5.0\BaiTap1.deps.json
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\bin\Debug\net5.0\BaiTap1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\bin\Debug\net5.0\BaiTap1.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\bin\Debug\net5.0\BaiTap1.dll
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\bin\Debug\net5.0\ref\BaiTap1.dll
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\bin\Debug\net5.0\BaiTap1.pdb
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\BaiTap1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\BaiTap1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\BaiTap1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\BaiTap1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\BaiTap1.dll
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\ref\BaiTap1.dll
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\BaiTap1.pdb
+C:\Users\Lenovo\source\repos\THCTDLGT_DoanTheDuc\BaiTap1\obj\Debug\net5.0\BaiTap1.genruntimeconfig.cache
